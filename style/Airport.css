@@ -1,0 +1,9 @@
+ul#city {
+    background: #cc4b00;
+    padding: 20px;
+}
+
+ul#city li {
+    background:  #e4ff99;
+    margin: 5px;
+}
