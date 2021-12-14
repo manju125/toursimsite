@@ -1,9 +1,15 @@
 ul#pilot {
     background: #3399ff;
     padding: 20px;
+    
 }
 
 ul#pilot li {
     background: #cce5ff;
     margin: 5px;
+    list-style-type: square;
+    list-style-image: url('bullet_red.png');
 }
+ul.p2 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
